@@ -18,6 +18,8 @@ public class ItemBill {
         System.out.printf("Total bill: %.2f%n", total);
 
         input.close();
+
+system.out.println("Change");
     }
 }
 
